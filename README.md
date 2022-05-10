@@ -9,7 +9,12 @@ I hope you will come along with me on this exciting journey!!!
 
 Skills: PYTHON / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on  my technical, problem solving, leadership and communication skills through:  
+- 🔭 I’m currently working on  my technical, problem solving, leadership and communication skills through:
+
+
+- 💁🏽‍♀️ On a mentorship programme with [Black Valley](https://www.blackvalley.co.uk) and [Coding Black Females](https://codingblackfemales.com)
+
+
 - 🌱 I’m currently learning Web development and Solidity 
 - 🤔 I’m looking for help with NFT Game and Blockchain development  
 - 💬 Ask me about Transitioning into tech, cyber security and data privacy 
