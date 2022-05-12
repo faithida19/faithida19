@@ -16,7 +16,7 @@ Skills: PYTHON / REACT / JS / HTML / CSS
 
 
 - 🌱 I’m currently learning Web development and Solidity 
-- 🤔 I’m looking for help with NFT Game and Blockchain development  
+- 🤔 I’m looking for help with Data structures and Blockchain development  
 - 💬 Ask me about Transitioning into tech, cyber security and data privacy 
 - 📫 How to reach me: faithida.intech@gmail.com 
 - 😄 Pronouns: she/her 
