@@ -13,9 +13,9 @@ Skills: PYTHON / REACT / JS / HTML / CSS
 
 
 - 💁🏽‍♀️ On a mentorship programme with [Black Valley](https://www.blackvalley.co.uk) and [Coding Black Females](https://codingblackfemales.com)
+- 📚 Completing multiple bootcamps such as Software Engineering Nanodegree with Code First Girls and an Ethereum Blockchain Developer Bootcamp With Solidity 
 
-
-- 🌱 I’m currently learning Web development and Solidity 
+- 🌱 I’m currently learning DAOs, Blockchain development, Web development and Solidity 
 - 🤔 I’m looking for help with Data structures and Blockchain development  
 - 💬 Ask me about Transitioning into tech, cyber security and data privacy 
 - 📫 How to reach me: faithida.intech@gmail.com 
